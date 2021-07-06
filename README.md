@@ -1,2 +1,2 @@
 # warcraft_boardgame
-a turn-based warcraft-like action board game
+a turn-based warcraft-like action board game (text-based)
